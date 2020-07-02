@@ -3,6 +3,8 @@ import googletrans
 #import random
 import asyncio, datetime
 import languagesid
+import tkn
+from tkn import token
 from languagesid import LANGUAGES
 from discord.ext import commands
 from googletrans import Translator
@@ -82,4 +84,4 @@ async def translate(ctx, destination, *, sentences):
 async def ping(ctx):
     await ctx.send(f'Pong! {round(client.latency * 1000)}ms')
 
-client.run('NzI0NjI5NDUzMjcxMDcyOTE4.XvFvzg.a_itjfXE7lQL430ZEhXemnd6aVM')
+client.run(token)
