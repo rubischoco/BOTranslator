@@ -20,9 +20,19 @@ BOTranslator
 ┃ ┣ translate
 ┃ ┣ ping
 ┣ languagesid.py
-┃ ┣ LANGUAGES
-┃ ┣ LANGCODES
 ┣ requirements.txt
 ┣ tkn.py
-┃ ┣ token
 ```
+
+## Class and Function
+File: BOTranslator.py
+Function | Access Level | Parameter | Return
+-------- | ------------ | --------- | ------
+on ready | public | None | None
+info | public | ctx : discord.ctx | None
+langid | public | ctx : discord.ctx | None
+translate | public | ctx : discord.ctx, destination : str, sentences : Tuple | None
+ping | public | ctx : discord.ctx | None
+
+## Statistics
+The line that i made in all these files are **215** lines
