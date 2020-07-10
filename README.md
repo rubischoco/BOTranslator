@@ -17,6 +17,11 @@ $ pip install discord.py
 ```
 $ pip install googletrans
 ```
+
+3. asyncio
+```
+$ pip install asyncio
+```
 ## Author
 
 [Fathurrahman Ikhsan](https://github.com/fathurri)
