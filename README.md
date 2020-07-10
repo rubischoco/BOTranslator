@@ -17,3 +17,14 @@ $ pip install discord.py
 ```
 $ pip install googletrans
 ```
+## Author
+
+[Fathurrahman Ikhsan](https://github.com/fathurri)
+
+These code are made by myself by looking all the API's documentation
+
+Contact me: fathurrahman.ikhsan@gmail.com
+
+## Source
+* [discord.py](https://github.com/Rapptz/discord.py) by Rapptz
+* [googletrans](https://py-googletrans.readthedocs.io/en/latest/)
