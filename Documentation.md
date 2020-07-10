@@ -6,3 +6,23 @@ I want to explain the second and third `@client.event` in `BOTranslate.py`. At t
 
 ## Project Duration
 
+I started made this bot at 23 June 2020. The features completed at 9 July 2020.
+
+## Structure Code
+
+```
+BOTranslator
+┣ .gitignore
+┣ BOTranslator.py
+┃ ┣ on_ready
+┃ ┣ info
+┃ ┣ langid
+┃ ┣ translate
+┃ ┣ ping
+┣ languagesid.py
+┃ ┣ LANGUAGES
+┃ ┣ LANGCODES
+┣ requirements.txt
+┣ tkn.py
+┃ ┣ token
+```
