@@ -6,7 +6,7 @@ If you wanna add this bot to your Discord server, just click [here](https://disc
 
 ## This bot is suitable for any Discord developer and user
 
-Feature in this bot is to translate sentences or words to the desired destination language with pronounciation (some of languages can't display the pronunciation. I have not seen further)
+Feature in this bot is to translate sentences or words to the desired destination language with pronounciation (sometimes the bot doesn't work for no reason, idk what happened, and some of languages can't display the pronunciation. I have not seen any further)
 
 ## The requirements
 
