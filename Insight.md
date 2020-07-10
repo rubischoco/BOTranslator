@@ -1,0 +1,1 @@
+What I learned during the development process is that creating something must have a lot of creativity. Making simple bots like this just takes a very long brainstorm for me. I also learned how to put together many APIs in one program which I had never done before. And the most important thing is how to manage time to complete this bot.
