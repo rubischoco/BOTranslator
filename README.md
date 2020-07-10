@@ -2,6 +2,8 @@
 
 This bot was created to fulfill one of the tasks of the expert system course at Jakarta State University
 
+If you wanna add this bot to your Discord server, just click [here](https://discord.com/api/oauth2/authorize?client_id=724629453271072918&permissions=8&scope=bot)
+
 ## This bot is suitable for any Discord developer and user
 
 Feature in this bot is to translate sentences or words to the desired destination language with pronounciation (some of languages can't display the pronunciation. I have not seen further)
