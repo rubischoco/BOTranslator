@@ -26,7 +26,7 @@ $ pip install asyncio
 ```
 ## Author
 
-[Fathurrahman Ikhsan](https://github.com/fathurri)
+[Fathurrahman Ikhsan](https://github.com/rubischoco)
 
 These code are made by myself by looking all the API's documentation
 
